@@ -1,11 +1,10 @@
-### Welcome to my profile
+<p align="center">
 
-<!--
-**Haris-Ali007/Haris-Ali007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h2 align="center">Assalam-o-Alikum,😀 I am Syed Muhammad Haris Ali</h2>
+  <br>
+</p>
 
-Here are some ideas to get you started:
--->
-
+## About Me
 - 🔭 I’m currently working at [Formulatrix](https://formulatrix.com/)
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
