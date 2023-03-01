@@ -4,14 +4,11 @@
   <br>
 </p>
 
-## About Me
-- 🔭 I’m currently working at [Formulatrix](https://formulatrix.com/)
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: ...
+<h2 align="center">About me</h2>
 
-( under construction )
+- 💻 I’m currently working at [Formulatrix](https://formulatrix.com/)
+- 🌱 I’m currently learning MLOps.
+- 😎 Pronouns: He/him
+- 😅 Fun fact: I want to learn everything.
+
+
