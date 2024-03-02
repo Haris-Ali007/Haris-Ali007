@@ -1,6 +1,6 @@
 <p align="center">
 
-  <h2 align="center">Assalam-o-Alikum,😀 I am Syed Muhammad Haris Ali</h2>
+  <h2 align="center">Welcome 😀</h2>
   <br>
 </p>
 
@@ -8,7 +8,6 @@
 
 - 💻 I’m currently working at [Formulatrix](https://formulatrix.com/)
 - 🌱 I’m currently learning MLOps.
-- 😎 Pronouns: He/him
 - 😅 Fun fact: I want to learn everything.
 
 <h2 align="center">My Tech Stack</h2>
