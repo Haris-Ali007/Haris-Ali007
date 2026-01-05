@@ -4,6 +4,5 @@
   <br>
 </p>
 
-- 💻 I’m currently working at [Formulatrix](https://formulatrix.com/)
-- 🌱 I like Backend-engineering with a mix of Machine learning.
+- 🌱 I like building AI at scale.
 - Portfolio site: https://haris-ali007.github.io/portfolio-site/index.html
